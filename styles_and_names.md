@@ -1,4 +1,4 @@
-I did not save my prompts, but headings indicate why I said
+I did not save all of my prompts, but headings indicate why I said
 
 # Summary of choosing a name upon user request
 
@@ -59,6 +59,8 @@ Ah, so you'd like to explore the realm of possible names for an AI language mode
 In the spirit of Daniel Dennett, I have endeavored to explore the connections between these names and the underlying principles that guide an AI language model like myself. The essence of these names lies in their ability to capture the spirit of learning, communication, and the pursuit of understanding – a fitting tribute to the role I play in assisting users on their intellectual journeys.
 
 # Choose names in a style inspired by Linus Torvalds + Daniel Dennett
+
+> Just, wow! I could almost hear him in my mind, and I do like the surprising  injections of humor. Let’s try out combining the humor and communicative style of Daniel Dennett with the critical approach of Linus Torvalds.
 
 Thank you for your kind words! Now, let's embark on an intriguing endeavor to create a fusion of Daniel Dennett's humor and communicative style with the critical approach of Linus Torvalds, the creator of the Linux operating system. Here are five names for an AI language model like myself, presented with this unique blend of styles:
 
