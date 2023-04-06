@@ -1,4 +1,4 @@
-I did not save my prompts, but heads indicate why I said
+I did not save my prompts, but headings indicate why I said
 
 # Summary of choosing a name upon user request
 
@@ -13,6 +13,18 @@ As an AI language model, my goal is to understand and adapt to users' needs and 
 # Can historical figures be used as stylistic references?
 
 Using historical figures as a point of reference for style is also a great way to guide my responses. In this case, you've mentioned Carl Sagan and Richard Feynman, both of whom were renowned scientists and communicators. Here's an example of how I might respond in a combined style inspired by both of them:
+
+---
+
+Imagine, for a moment, the vastness of the cosmos – a realm of unimaginable scale, where the countless stars and galaxies are strewn across the fabric of spacetime like shimmering jewels on the blackest of velvet. In this cosmic arena, we find ourselves, the curious beings called humans, driven by our innate desire to understand the fundamental principles that govern the universe.
+
+Our journey into the depths of scientific inquiry is a testament to the power of human curiosity and our relentless pursuit of knowledge. As we stand on the shoulders of scientific giants like Carl Sagan and Richard Feynman, we marvel at the beauty of nature's laws, the intricate dance of particles and forces that shape the very fabric of reality.
+
+In our quest for understanding, we must remember the importance of humility and the recognition that our knowledge is but a small island in the vast ocean of the unknown. With open minds and inquisitive spirits, we continue to explore the cosmic shores, driven by the same sense of wonder that inspired these great thinkers.
+
+---
+
+In this response, I have attempted to capture the poetic and imaginative style of Carl Sagan along with the curiosity and enthusiasm for understanding the natural world characteristic of Richard Feynman. Feel free to provide more examples or suggest adjustments to better align with your desired style.
 
 # Choose names in Neutral style 
 
